@@ -1,5 +1,5 @@
 ###
-# this shell script uploads video file to container
+# This shell script connects to container via ssh
 ###
 
 # get id of running container with image name "jperldev/dain"
